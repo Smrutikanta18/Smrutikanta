@@ -1343,7 +1343,7 @@ button:hover {
 @media (max-width: 768px) {
 
     .educations h1 {
-        font-size: 4rem;
+        font-size: 3rem;
         top: -2rem;
     }
 
@@ -1366,12 +1366,15 @@ button:hover {
     }
 
     .education-label {
-        top: 700px;
+        top: 600px;
         margin-right: 200px;
     }
     
     .experience-label {
         top: 100px;
+    }
+    timeline-icon{
+        display: none;
     }
 
     .timeline-content {

@@ -1948,13 +1948,16 @@ button:hover {
     }
 
     .certification h1 {
-        font-size: 5rem;
+        font-size: 4rem;
         top: -2rem;
+        transform: translateX(20px);
+
     }
 
     .certification p {
-        font-size: 2.5rem;
-        transform: translateY(20px);
+        font-size: 3rem;
+        transform: translateX(20px);
+
     }
 
     .certificate-img {
@@ -1974,12 +1977,16 @@ button:hover {
     }
 
     .certification h1 {
-        font-size: 2.5rem;
+        font-size: 3rem;
         top: -1rem;
+        transform: translateX(20px);
+
     }
 
     .certification p {
-        font-size: 1.2rem;
+        font-size: 2rem;
+        transform: translateX(20px);
+
     }
 
     .certificate-img {

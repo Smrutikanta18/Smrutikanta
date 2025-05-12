@@ -1366,11 +1366,12 @@ button:hover {
     }
 
     .education-label {
-        top: 300px;
+        top: 500px;
+        margin-right: 200px;
     }
     
     .experience-label {
-        top: 200px;
+        top: 100px;
     }
 
     .timeline-content {

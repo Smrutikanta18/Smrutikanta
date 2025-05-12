@@ -1349,6 +1349,7 @@ button:hover {
 
     .educations p {
         font-size: 2.5rem;
+        transform: translateY(20px);
     }
 
     .education {
@@ -1362,6 +1363,14 @@ button:hover {
 
     .timeline-block {
         margin: 80px 0;
+    }
+
+    .education-label {
+        top: 300px;
+    }
+    
+    .experience-label {
+        top: 200px;
     }
 
     .timeline-content {
@@ -1715,6 +1724,7 @@ button:hover {
 
     .project p {
         font-size: 2.5rem;
+        transform: translateY(20px);
     }
 
     .project-card {
@@ -1923,6 +1933,7 @@ button:hover {
 
     .certification p {
         font-size: 2.5rem;
+        transform: translateY(20px);
     }
 
     .certificate-img {
@@ -2124,16 +2135,16 @@ button:hover {
 
 @media (max-width: 768px) {
     .contact {
-      padding: 3rem 5%;
+      padding: 4rem 5%;
     }
   
     .contact1 h1 {
-      font-size: 4rem;
+      font-size: 5rem;
       top: -2rem;
     }
   
     .contact1 p {
-      font-size: 2rem;
+      font-size: 2.5rem;
       transform: translateY(20px);
     }
   

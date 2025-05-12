@@ -1059,16 +1059,20 @@ button:hover {
 /* Mobile responsiveness */
 @media (max-width: 768px) {
     .skills {
-        padding: 4rem 5%;
+        padding: 3rem 5%;
     }
 
     .skill-head h1 {
-        font-size: 5rem;
+        font-size: 3rem;
         top: -2rem;
+        transform: translateX(20px);
+
     }
 
     .skill-head p {
-        font-size: 2.5rem;
+        font-size: 2rem;
+        transform: translateX(20px);
+
     }
 
     .section-title {
@@ -1102,12 +1106,16 @@ button:hover {
 }
 @media (max-width: 480px) {
     .skill-head h1 {
-        font-size: 4rem;
+        font-size: 3rem;
         top: -1.5rem;
+        transform: translateX(20px);
+
     }
 
     .skill-head p {
         font-size: 2rem;
+        transform: translateX(20px);
+
     }
 }
 
@@ -1345,11 +1353,14 @@ button:hover {
     .educations h1 {
         font-size: 3rem;
         top: -2rem;
+        transform: translateX(20px);
+
     }
 
     .educations p {
         font-size: 2.5rem;
-        transform: translateY(20px);
+        transform: translateX(20px);
+
     }
 
     .education {
@@ -1429,13 +1440,13 @@ button:hover {
     .educations h1 {
         font-size: 2.5rem;
         top: -1.5rem;
-        transform: translateY(20px);
+        transform: translateX(20px);
 
     }
 
     .educations p {
         font-size: 2rem;
-        transform: translateY(20px);
+        transform: translateX(20px);
 
     }
     .education {
@@ -1718,17 +1729,19 @@ button:hover {
 
 @media (max-width: 750px) {
     .projects {
-        padding: 3rem 5%;
+        padding: 4rem 5%;
     }
 
     .project h1 {
-        font-size: 5rem;
+        font-size: 4rem;
         top: -2rem;
+        transform: translateX(20px);
+
     }
 
     .project p {
         font-size: 2.5rem;
-        transform: translateY(20px);
+        transform: translateX(20px);
     }
 
     .project-card {
@@ -1776,10 +1789,14 @@ button:hover {
     .project h1 {
         font-size: 2.5rem;
         top: -1rem;
+        transform: translateX(20px);
+
     }
 
     .project p {
         font-size: 1.2rem;
+        transform: translateX(20px);
+
     }
 
     .projects-container {

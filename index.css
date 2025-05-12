@@ -1427,12 +1427,16 @@ button:hover {
 
 @media (max-width: 480px) {
     .educations h1 {
-        font-size: 3rem;
+        font-size: 2.5rem;
         top: -1.5rem;
+        transform: translateY(20px);
+
     }
 
     .educations p {
         font-size: 2rem;
+        transform: translateY(20px);
+
     }
     .education {
         padding: 2rem 4%;
@@ -1448,11 +1452,7 @@ button:hover {
     }
 
     .timeline-icon {
-        width: 50px;
-        height: 50px;
-        font-size: 1.2rem;
-        top: -30px;
-        left: 0;
+        display: none;
     }
 
     .timeline-image {

@@ -1343,7 +1343,7 @@ button:hover {
 @media (max-width: 768px) {
 
     .educations h1 {
-        font-size: 5rem;
+        font-size: 4rem;
         top: -2rem;
     }
 
@@ -1366,7 +1366,7 @@ button:hover {
     }
 
     .education-label {
-        top: 500px;
+        top: 700px;
         margin-right: 200px;
     }
     
@@ -1424,7 +1424,7 @@ button:hover {
 
 @media (max-width: 480px) {
     .educations h1 {
-        font-size: 4rem;
+        font-size: 3rem;
         top: -1.5rem;
     }
 
